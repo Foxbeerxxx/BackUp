@@ -61,3 +61,6 @@ crontab -e
 ```
 
 ![6](https://github.com/Foxbeerxxx/BackUp/blob/main/img/img6.png)`
+
+6. `Если глянуть логи, то понятно, что мой скрипт отрабатывает:`
+![7](https://github.com/Foxbeerxxx/BackUp/blob/main/img/img7.png)`
